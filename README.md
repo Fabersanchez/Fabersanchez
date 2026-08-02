@@ -1,151 +1,227 @@
 <div align="center">
 
-# Hi, I'm Faber David Sanchez Martinez 👋
+# 👋 Hi, I'm Faber David Sanchez Martinez
 
-### Software Developer • AI Enthusiast • Engineering Software
+### Software Developer | AI Enthusiast | Engineering Software
 
-Building intelligent software, engineering solutions and modern web applications.
+Building intelligent software, engineering platforms and scalable web applications.
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Java+Backend+Developer;FastAPI+%7C+Next.js+Developer;Artificial+Intelligence+Projects;Engineering+Software;Always+Learning+Something+New"/>
 
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 </div>
 
 ---
 
-# About Me
+# 💼 About Me
 
-I'm a software developer passionate about building practical solutions through software engineering, artificial intelligence and automation.
+I'm a Software Developer passionate about designing and building modern software solutions that solve real-world problems.
 
-My interests include:
+My current focus is on developing intelligent applications, engineering software, backend systems and modern web platforms using Python, Java and JavaScript technologies.
 
-- Artificial Intelligence
-- Algorithmic Trading
-- Engineering Software
-- Full Stack Development
-- Automation
-- Backend Development
-- Data Processing
+I enjoy learning new technologies, improving software architecture and transforming complex ideas into reliable and scalable applications.
 
-I'm continuously improving my skills by developing real-world projects that combine software architecture, modern web technologies and engineering workflows.
+Currently, I'm strengthening my knowledge in Software Engineering, Backend Development, Artificial Intelligence and Full Stack Web Development while continuously expanding my portfolio with production-oriented projects.
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ## 🤖 Sentinel V20
 
-AI-powered algorithmic trading platform focused on quantitative analysis, machine learning and automated decision systems.
+Enterprise-grade Algorithmic Trading Platform powered by Artificial Intelligence.
+
+### Key Features
+
+- Artificial Intelligence decision engine
+- Multi-Agent architecture
+- Advanced Risk Management
+- Technical Analysis Engine
+- Machine Learning integration
+- Market prediction models
+- Real-time monitoring dashboard
+- Institutional software architecture
 
 **Technologies**
 
-- Python
-- Machine Learning
-- FastAPI
-- SQLite
-- MetaTrader 5
-- Financial Data Analysis
+Python • FastAPI • Machine Learning • SQLite • MetaTrader 5
 
 ---
 
 ## 📐 VectorForge CAD
 
-Professional platform for converting vector PDF engineering drawings into editable DXF files.
+Professional PDF Vector → DXF Conversion Platform.
+
+Designed for engineering companies requiring high-precision CAD reconstruction from vector PDF drawings.
+
+### Features
+
+- Vector PDF extraction
+- DXF reconstruction
+- Geometry optimization
+- SVG preview
+- Batch conversion
+- REST API
+- Docker deployment
 
 **Technologies**
 
-- Python
-- FastAPI
-- Next.js
-- React
-- TypeScript
-- PyMuPDF
-- ezdxf
-- Docker
+Python • FastAPI • Next.js • React • TypeScript • PyMuPDF • ezdxf • Docker
 
 ---
 
 ## 🐍 Python Fundamentals
 
-Collection of Python programming exercises covering programming fundamentals, object-oriented programming and algorithms.
+A growing collection of Python programming exercises covering software development fundamentals.
+
+Topics include
+
+- Object-Oriented Programming
+- Algorithms
+- Data Structures
+- Problem Solving
+- Functions
+- Classes
+- Collections
 
 ---
 
-# Technology Stack
+# 🛠 Technical Skills
 
-### Languages
+## Programming Languages
 
 - Python
 - Java
 - JavaScript
 - TypeScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 
-### Backend
+---
+
+## Backend
 
 - FastAPI
 - REST APIs
+- Python
+- Java
 
-### Frontend
+---
+
+## Frontend
 
 - React
 - Next.js
 - Tailwind CSS
 
-### Databases
+---
+
+## Databases
 
 - SQLite
 
-### Tools
+---
+
+## Tools
 
 - Git
 - GitHub
 - Docker
 - VS Code
+- Postman
 
 ---
 
-# Currently Learning
+## Engineering & AI
 
-- Java Backend Development
-- Spring Boot
+- Artificial Intelligence
+- Machine Learning
+- CAD Processing
+- Financial Software
+- Automation
 - Software Architecture
+
+---
+
+# 🌱 Currently Learning
+
+- Spring Boot
+- Java Backend Development
+- Advanced Software Architecture
 - Cloud Deployment
+- CI/CD
+- Design Patterns
+- Microservices
 - Advanced React
-- Quantitative Software Engineering
 
 ---
 
-# Goals
+# 🎯 Career Goals
 
-- Build production-ready software
-- Create AI-powered engineering solutions
-- Contribute to open-source projects
-- Continue learning modern software engineering practices
+I'm looking for opportunities where I can contribute to real software projects, continue improving my engineering skills and collaborate with teams building innovative technology.
+
+My long-term goal is to become a Software Engineer specialized in Artificial Intelligence, Backend Development and Engineering Software.
 
 ---
 
-# Let's Connect
+# 📊 GitHub Statistics
 
-- GitHub: https://github.com/Fabersanchez
-- LinkedIn: *(Add your LinkedIn profile here)*
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabersanchez&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabersanchez&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+✔ Building Sentinel V20
+
+✔ Developing VectorForge CAD
+
+✔ Learning Java Backend
+
+✔ Improving Software Architecture
+
+✔ Exploring Artificial Intelligence
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: your.email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+🌍 GitHub: https://github.com/Fabersanchez
 
 ---
 
 <div align="center">
 
-### Engineering software with precision.
+## 💡 Philosophy
+
+*"Technology becomes truly valuable when it solves real problems."*
+
+---
+
+### Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and follow my journey as I continue building modern software solutions.
 
 </div>
