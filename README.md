@@ -1,102 +1,48 @@
-<h1 align="center">Hi 👋, I'm Faber David Sanchez Martinez</h1>
+<div align="center">
 
-<h3 align="center">
-Python Software Engineer | Automation | Data Analysis | Algorithmic Trading
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Python Software Engineer passionate about building scalable software, intelligent automation, and data-driven systems.
-
-My primary focus is:
-
-- 🐍 Python Development
-- ⚙️ Automation Solutions
-- 📊 Data Analysis
-- 🚀 Backend Development
-- 📈 Algorithmic Trading Systems
-
-Currently I am developing **Sentinel**, a modular algorithmic trading platform focused on reliability, risk management, artificial intelligence, and quantitative analysis.
-
-I enjoy solving complex problems through software engineering, clean architecture, and continuous learning.
+# Faber David Sánchez Martínez
+**Quantitative Systems Engineer · Software Architect · Algorithmic Trader**
 
 ---
 
-## 🛠 Tech Stack
+### Quantitative Systems & Algorithmic Execution 🛡️
 
-### Languages
+[![Portfolio](https://img.shields.io/badge/Portfolio-Fabersanchez-0A3871?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Fabersanchez)
+[![GitHub](https://img.shields.io/badge/GitHub-Fabersanchez-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabersanchez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faber_Sánchez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Fabersanchez&color=0A3871&style=flat-square&label=views)](https://github.com/Fabersanchez)
 
-- Python
-- SQL
-- JavaScript (Basic)
-
-### Backend
-
-- FastAPI
-- REST APIs
-- WebSockets
-
-### Data
-
-- Pandas
-- NumPy
-- SQLite
-- PostgreSQL
-
-### DevOps
-
-- Git
-- GitHub
-- Docker
-- Linux
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👋 About me
 
-### 🛡 Sentinel
+Quantitative Systems and Software Engineer based in **Colombia**. I design and build production-grade quantitative trading infrastructure, event-driven backtesting engines, and automated execution bridges connecting Python decision models with broker interfaces via MQL5.
 
-Institutional Algorithmic Trading Platform built with Python.
-
-Main features:
-
-- Modular Architecture
-- Risk Management
-- Artificial Intelligence
-- Market Analysis
-- Trading Automation
-- Performance Optimization
+* 🧪 **Quantitative Research:** Vectorized backtesting, custom technical indicators, and ML-assisted trading strategies (**QuantLab**).
+* 🛡️ **Execution Systems:** High-resilience algorithmic execution engines and automated risk management frameworks (**Sentinel Engine**).
+* 📐 **Engineering Software:** High-precision CAD conversion engines, REST APIs, and full-stack utilities (**VectorForge CAD**).
+* 🎯 **Focus:** Building deterministic, fault-tolerant, and zero-lookahead bias systems.
 
 ---
 
-## 📚 Currently Learning
+## ⭐ Flagship project
 
-- Advanced Python
-- FastAPI
-- Docker
-- PostgreSQL
-- Software Architecture
-- CI/CD
-- Cloud Deployment
+<div align="center">
 
----
+### 🛡️ [Sentinel Engine](https://github.com/Fabersanchez/Sentinel_V19)
 
-## 📈 GitHub Stats
+*An enterprise-grade algorithmic execution engine and real-time risk manager bridging Python AI decision models with MQL5 broker gateways.*
 
-![](https://github-readme-stats.vercel.app/api?username=Dafer24&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dafer24&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn
-- 📧 Email (add later)
-
----
-
-⭐ Always learning.
-🚀 Always building.
+```text
+  ┌──────────────────────────────────────────────────────────────┐
+  │                    PYTHON DECISION ENGINE                    │
+  │   (Análisis de Señales, Modelos Predictivos & Risk Sizing)   │
+  └──────────────────────────────┬───────────────────────────────┘
+                                 │ (IPC / Sockets / ZMQ / API)
+                                 ▼
+  ┌──────────────────────────────────────────────────────────────┐
+  │                    MQL5 EXECUTION BRIDGE                     │
+  │    (Validación de Garantía, Envío de Órdenes & Trailing)     │
+  └──────────────────────────────────────────────────────────────┘
