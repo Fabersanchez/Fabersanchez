@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Fabersanchez/Fabersanchez/main/assets/banner.png">
 </p>
-
 <h1 align="center">
 Hi 👋 I'm Faber David Sanchez Martinez
 </h1>
