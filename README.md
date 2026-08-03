@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- BANNER PRINCIPAL -->
-  <img src="watermarked_img_14123079701480762170.png" alt="Faber Sanchez - Quantitative Trading Systems" width="100%" />
+  <!-- IMPORTANTE: Reemplaza "URL_DE_TU_IMAGEN_AQUI" por el link de GitHub de tu imagen subida -->
+  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Faber Sanchez - Quantitative Trading Systems" width="100%" />
+  
   <br><br>
 
   <!-- TYPING SUBTITLE DINÁMICO -->
@@ -26,7 +28,6 @@
   </a>
 
 </div>
-
 ---
 
 ## 🔬 Executive Summary
