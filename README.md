@@ -1,48 +1,150 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" alt="Faber David Sanchez Martinez Banner" width="100%">
+</p>
 
-# Faber David Sánchez Martínez
-**Quantitative Systems Engineer · Software Architect · Algorithmic Trader**
+<h1 align="center">
+Hi 👋 I'm Faber David Sanchez Martinez
+</h1>
 
----
+<h3 align="center">
+Python Software Engineer | Algorithmic Trading Developer | Backend Developer
+</h3>
 
-### Quantitative Systems & Algorithmic Execution 🛡️
+<p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Fabersanchez-0A3871?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Fabersanchez)
-[![GitHub](https://img.shields.io/badge/GitHub-Fabersanchez-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabersanchez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faber_Sánchez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Fabersanchez&color=0A3871&style=flat-square&label=views)](https://github.com/Fabersanchez)
+Building intelligent software, quantitative trading systems and scalable backend applications.
 
-</div>
-
----
-
-## 👋 About me
-
-Quantitative Systems and Software Engineer based in **Colombia**. I design and build production-grade quantitative trading infrastructure, event-driven backtesting engines, and automated execution bridges connecting Python decision models with broker interfaces via MQL5.
-
-* 🧪 **Quantitative Research:** Vectorized backtesting, custom technical indicators, and ML-assisted trading strategies (**QuantLab**).
-* 🛡️ **Execution Systems:** High-resilience algorithmic execution engines and automated risk management frameworks (**Sentinel Engine**).
-* 📐 **Engineering Software:** High-precision CAD conversion engines, REST APIs, and full-stack utilities (**VectorForge CAD**).
-* 🎯 **Focus:** Building deterministic, fault-tolerant, and zero-lookahead bias systems.
+</p>
 
 ---
 
-## ⭐ Flagship project
+# 🚀 About Me
 
-<div align="center">
+I'm a Systems Engineering student and Python developer passionate about creating intelligent software capable of solving real-world problems.
 
-### 🛡️ [Sentinel Engine](https://github.com/Fabersanchez/Sentinel_V19)
+My primary focus is on:
 
-*An enterprise-grade algorithmic execution engine and real-time risk manager bridging Python AI decision models with MQL5 broker gateways.*
+- 🤖 Artificial Intelligence
+- 📈 Algorithmic Trading
+- ⚡ High Performance Python
+- 🌐 Backend Development
+- 🔬 Data Analysis
+- 🧠 Quantitative Research
+- ☁ Cloud Architecture
+- 🐳 DevOps
 
-```text
-  ┌──────────────────────────────────────────────────────────────┐
-  │                    PYTHON DECISION ENGINE                    │
-  │   (Análisis de Señales, Modelos Predictivos & Risk Sizing)   │
-  └──────────────────────────────┬───────────────────────────────┘
-                                 │ (IPC / Sockets / ZMQ / API)
-                                 ▼
-  ┌──────────────────────────────────────────────────────────────┐
-  │                    MQL5 EXECUTION BRIDGE                     │
-  │    (Validación de Garantía, Envío de Órdenes & Trailing)     │
-  └──────────────────────────────────────────────────────────────┘
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 🔥 Featured Projects
+
+## 🛡 Sentinel
+
+Advanced AI-powered algorithmic trading platform.
+
+Features:
+
+- Artificial Intelligence
+- Institutional Market Analysis
+- Multi-Agent Architecture
+- Risk Management
+- Explainable AI
+- Real-Time Decision Engine
+
+---
+
+## 📊 QuantLab
+
+Professional quantitative research environment.
+
+Features:
+
+- Strategy Development
+- Backtesting
+- Indicators
+- Performance Analytics
+- Statistical Validation
+
+---
+
+# 📈 Current Learning
+
+- Advanced Python
+- Software Architecture
+- FastAPI
+- Docker
+- PostgreSQL
+- Machine Learning
+- Deep Learning
+- Quantitative Finance
+
+---
+
+# 🎯 Goals
+
+✔ Build world-class software
+
+✔ Contribute to Open Source
+
+✔ Create professional algorithmic trading systems
+
+✔ Master Artificial Intelligence
+
+✔ Develop scalable backend applications
+
+---
+
+# 📫 Contact
+
+- GitHub: https://github.com/Fabersanchez
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
