@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER MINIMALISTA GENERADO POR CÓDIGO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=200&section=header&text=Faber%20David%20Sanchez%20Martinez&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Quantitative%20Developer%20%7C%20Systems%20Engineer&descAlignY=68&descSize=22&descColor=ffffff" alt="Faber David Sanchez Martinez" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=200&section=header&text=Faber%20Sanchez&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Quantitative%20Developer%20%7C%20Systems%20Engineer&descAlignY=68&descSize=22&descColor=ffffff" alt="Faber Sanchez" width="100%" />
 
   <br><br>
 
