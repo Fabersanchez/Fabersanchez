@@ -5,6 +5,13 @@
 
   <br><br>
 
+  <!-- TEXTO DINÁMICO (TYPING EFFECT) -->
+  <a href="https://github.com/Fabersanchez">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Architecting+High-Frequency+Trading+Systems;Engineering+Multi-Agent+AI+Models;Building+Robust+Python+Data+Pipelines" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
   <!-- BOTONES DE CONTACTO -->
   <a href="https://linkedin.com/in/fabersanchez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
