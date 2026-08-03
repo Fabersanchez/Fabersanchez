@@ -1,20 +1,9 @@
 <div align="center">
 
-  <!-- NOMBRE PRINCIPAL EN TEXTO (Asegura que siempre se vea) -->
-  <h1 align="center">FABER SANCHEZ</h1>
+  <!-- BANNER MINIMALISTA GENERADO POR CÓDIGO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=200&section=header&text=Faber%20David%20Sanchez%20Martinez&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Quantitative%20Developer%20%7C%20Systems%20Engineer&descAlignY=68&descSize=22&descColor=ffffff" alt="Faber David Sanchez Martinez" width="100%" />
 
-  <!-- BANNER PRINCIPAL -->
-  <!-- IMPORTANTE: Reemplaza "URL_DE_TU_IMAGEN_AQUI" por el link de tu imagen subida a GitHub -->
-  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Faber Sanchez - Quantitative Trading Systems" width="100%" />
-  
   <br><br>
-
-  <!-- TYPING SUBTITLE DINÁMICO -->
-  <a href="https://github.com/Fabersanchez">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Faber+Sanchez+%7C+Quantitative+Developer;Architecting+High-Frequency+Trading+Systems;Engineering+Multi-Agent+AI+Models;Building+Robust+Python+Data+Pipelines" alt="Typing SVG" />
-  </a>
-
-  <br>
 
   <!-- BOTONES DE CONTACTO -->
   <a href="https://linkedin.com/in/fabersanchez">
