@@ -1,7 +1,10 @@
 <div align="center">
 
+  <!-- NOMBRE PRINCIPAL EN TEXTO (Asegura que siempre se vea) -->
+  <h1 align="center">FABER SANCHEZ</h1>
+
   <!-- BANNER PRINCIPAL -->
-  <!-- IMPORTANTE: Reemplaza "URL_DE_TU_IMAGEN_AQUI" por el link de GitHub de tu imagen subida -->
+  <!-- IMPORTANTE: Reemplaza "URL_DE_TU_IMAGEN_AQUI" por el link de tu imagen subida a GitHub -->
   <img src="URL_DE_TU_IMAGEN_AQUI" alt="Faber Sanchez - Quantitative Trading Systems" width="100%" />
   
   <br><br>
@@ -22,9 +25,6 @@
   </a>
   <a href="mailto:contact@fabersanchez.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://fabersanchez.com/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-25292E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
   </a>
 
 </div>
