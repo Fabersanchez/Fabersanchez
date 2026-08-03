@@ -2,7 +2,6 @@
 
   <!-- BANNER PRINCIPAL -->
   <img src="watermarked_img_14123079701480762170.png" alt="Faber Sanchez - Quantitative Trading Systems" width="100%" />
-
   <br><br>
 
   <!-- TYPING SUBTITLE DINÁMICO -->
